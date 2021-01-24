@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Git\\Rikanda\\HW3\\HW3\\Project1\\Project1.csproj": {}
+    "N:\\Git\\Rikanda\\HW3\\HW3\\Project2\\Project2.csproj": {}
   },
   "projects": {
-    "N:\\Git\\Rikanda\\HW3\\HW3\\Project1\\Project1.csproj": {
+    "N:\\Git\\Rikanda\\HW3\\HW3\\Project2\\Project2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Git\\Rikanda\\HW3\\HW3\\Project1\\Project1.csproj",
-        "projectName": "Project1",
-        "projectPath": "N:\\Git\\Rikanda\\HW3\\HW3\\Project1\\Project1.csproj",
+        "projectUniqueName": "N:\\Git\\Rikanda\\HW3\\HW3\\Project2\\Project2.csproj",
+        "projectName": "Project2",
+        "projectPath": "N:\\Git\\Rikanda\\HW3\\HW3\\Project2\\Project2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "N:\\Git\\Rikanda\\HW3\\HW3\\Project1\\obj\\",
+        "outputPath": "N:\\Git\\Rikanda\\HW3\\HW3\\Project2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

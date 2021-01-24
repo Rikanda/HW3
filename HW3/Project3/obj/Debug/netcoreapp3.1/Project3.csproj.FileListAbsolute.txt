@@ -1,0 +1,12 @@
+N:\Git\Rikanda\HW3\HW3\Project3\bin\Debug\netcoreapp3.1\Project3.exe
+N:\Git\Rikanda\HW3\HW3\Project3\bin\Debug\netcoreapp3.1\Project3.deps.json
+N:\Git\Rikanda\HW3\HW3\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.json
+N:\Git\Rikanda\HW3\HW3\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.dev.json
+N:\Git\Rikanda\HW3\HW3\Project3\bin\Debug\netcoreapp3.1\Project3.dll
+N:\Git\Rikanda\HW3\HW3\Project3\bin\Debug\netcoreapp3.1\Project3.pdb
+N:\Git\Rikanda\HW3\HW3\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfoInputs.cache
+N:\Git\Rikanda\HW3\HW3\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfo.cs
+N:\Git\Rikanda\HW3\HW3\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.CoreCompileInputs.cache
+N:\Git\Rikanda\HW3\HW3\Project3\obj\Debug\netcoreapp3.1\Project3.dll
+N:\Git\Rikanda\HW3\HW3\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
+N:\Git\Rikanda\HW3\HW3\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache
