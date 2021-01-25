@@ -19,7 +19,7 @@ namespace Project1
                 {
                     for (int j = 0; j < b; j++)
                     {
-                        Ar[i, j] = rand.Next(10, 99);
+                        Ar[i, j] = rand.Next(10, 100);
                         Console.Write($"{Ar[i, j]} ");
                     }
                     Console.WriteLine();
